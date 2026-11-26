@@ -1,0 +1,655 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1440" viewBox="0 0 2000 1440" font-family="DejaVu Sans, sans-serif">
+  <rect width="2000" height="1440" fill="#ECECEC"/>
+  <text x="1000" y="64" text-anchor="middle" font-size="38" font-weight="bold" fill="#1A1A1A">EcoSort — App Screens</text>
+
+  <!-- ================= P1 LOGIN ================= -->
+  <g transform="translate(40,104)">
+    <rect width="360" height="600" rx="36" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="4"/>
+    <rect x="140" y="14" width="80" height="9" rx="4.5" fill="#D9D9D9"/>
+    <circle cx="180" cy="112" r="40" fill="#EFEFEF"/>
+    <g transform="translate(180,114)" stroke="#1A1A1A" stroke-width="5" fill="none" stroke-linecap="round">
+      <path d="M0 -20 L17 9 L-17 9 Z" stroke-linejoin="round"/>
+    </g>
+    <g transform="translate(180,114)" fill="#1A1A1A">
+      <path d="M-2 -24 L6 -16 L-6 -16 Z"/>
+      <path d="M21 5 L17 15 L10 9 Z"/>
+      <path d="M-21 5 L-17 15 L-10 9 Z"/>
+    </g>
+    <text x="180" y="182" text-anchor="middle" font-size="23" font-weight="bold" fill="#1A1A1A">EcoSort</text>
+    <text x="180" y="203" text-anchor="middle" font-size="12" font-style="italic" fill="#9E9E9E">Sort right. Recycle more.</text>
+    <rect x="52" y="240" width="256" height="44" rx="12" fill="#F2F2F2"/>
+    <circle cx="76" cy="262" r="8" fill="none" stroke="#757575" stroke-width="2"/>
+    <path d="M84 262 h6" stroke="#757575" stroke-width="2"/>
+    <text x="98" y="267" font-size="12" fill="#9E9E9E">Email</text>
+    <rect x="52" y="296" width="256" height="44" rx="12" fill="#F2F2F2"/>
+    <rect x="68" y="312" width="16" height="12" rx="2" fill="none" stroke="#757575" stroke-width="2"/>
+    <path d="M70 312 v-4 a6 6 0 0 1 12 0 v4" fill="none" stroke="#757575" stroke-width="2"/>
+    <text x="98" y="323" font-size="13" fill="#9E9E9E">••••••••</text>
+    <rect x="52" y="366" width="256" height="48" rx="12" fill="#1A1A1A"/>
+    <text x="180" y="396" text-anchor="middle" font-size="14" font-weight="bold" fill="#FFFFFF">LOGIN</text>
+    <text x="130" y="442" text-anchor="middle" font-size="12" fill="#9E9E9E">New here?</text>
+    <text x="164" y="442" font-size="12" font-weight="bold" fill="#1A1A1A">Create account</text>
+  </g>
+  <text x="220" y="742" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">1 · Login</text>
+
+  <!-- ================= P2 CREATE ACCOUNT ================= -->
+  <g transform="translate(428,104)">
+    <rect width="360" height="600" rx="36" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="4"/>
+    <rect x="140" y="14" width="80" height="9" rx="4.5" fill="#D9D9D9"/>
+    <circle cx="180" cy="96" r="32" fill="#EFEFEF"/>
+    <circle cx="180" cy="88" r="10" fill="none" stroke="#1A1A1A" stroke-width="4"/>
+    <path d="M164 116 a16 14 0 0 1 32 0" fill="none" stroke="#1A1A1A" stroke-width="4"/>
+    <text x="180" y="152" text-anchor="middle" font-size="20" font-weight="bold" fill="#1A1A1A">EcoSort</text>
+    <text x="180" y="171" text-anchor="middle" font-size="11.5" font-style="italic" fill="#9E9E9E">Sort right. Recycle more.</text>
+    <rect x="52" y="196" width="256" height="42" rx="12" fill="#F2F2F2"/>
+    <text x="72" y="222" font-size="12" fill="#9E9E9E">Name</text>
+    <rect x="52" y="248" width="256" height="42" rx="12" fill="#F2F2F2"/>
+    <text x="72" y="274" font-size="12" fill="#9E9E9E">Email</text>
+    <rect x="52" y="300" width="256" height="42" rx="12" fill="#F2F2F2"/>
+    <text x="72" y="326" font-size="12" fill="#9E9E9E">Password</text>
+    <rect x="52" y="352" width="256" height="42" rx="12" fill="#F2F2F2"/>
+    <text x="72" y="378" font-size="12" fill="#9E9E9E">Confirm password</text>
+    <rect x="52" y="416" width="256" height="48" rx="12" fill="#1A1A1A"/>
+    <text x="180" y="446" text-anchor="middle" font-size="13" font-weight="bold" fill="#FFFFFF">CREATE ACCOUNT</text>
+    <text x="110" y="492" text-anchor="middle" font-size="12" fill="#9E9E9E">Already have an account?</text>
+    <text x="182" y="492" font-size="12" font-weight="bold" fill="#1A1A1A">Log in</text>
+  </g>
+  <text x="608" y="742" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">2 · Create account</text>
+
+  <!-- ================= P3 DRAWER ================= -->
+  <g transform="translate(816,104)">
+    <rect width="360" height="600" rx="36" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="4"/>
+    <rect x="140" y="14" width="80" height="9" rx="4.5" fill="#D9D9D9"/>
+    <rect x="10" y="30" width="340" height="540" rx="24" fill="#FFFFFF"/>
+    <rect x="10" y="30" width="340" height="540" rx="24" fill="#1A1A1A" fill-opacity="0.5"/>
+    <g>
+      <rect x="10" y="30" width="252" height="540" rx="0" fill="#FFFFFF"/>
+      <rect x="10" y="30" width="252" height="150" fill="#1A1A1A"/>
+      <circle cx="46" cy="82" r="24" fill="#FFFFFF"/>
+      <text x="46" y="90" text-anchor="middle" font-size="20" font-weight="bold" fill="#1A1A1A">O</text>
+      <text x="26" y="134" font-size="14" font-weight="bold" fill="#FFFFFF">Obed</text>
+      <text x="26" y="153" font-size="10.5" fill="#BDBDBD">obed@example.com</text>
+      <g font-size="12" fill="#1A1A1A">
+        <g transform="translate(30,196)">
+          <path d="M0 0 h20 M0 6 h14 M0 12 h8" stroke="#1A1A1A" stroke-width="2"/>
+          <text x="38" y="10">Sort Guide</text>
+        </g>
+        <g transform="translate(30,236)">
+          <path d="M10 0 a7 7 0 0 1 7 7 c0 5 -7 13 -7 13 s-7 -8 -7 -13 a7 7 0 0 1 7 -7 Z" fill="none" stroke="#1A1A1A" stroke-width="2"/>
+          <text x="38" y="10">Recycling Centers</text>
+        </g>
+        <g transform="translate(30,276)">
+          <path d="M0 14 L7 6 L12 10 L20 0" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+          <text x="38" y="10">Eco-Tracker</text>
+        </g>
+        <g transform="translate(30,316)">
+          <path d="M4 0 h12 v6 a6 6 0 0 1 -12 0 Z M10 12 v4 M6 16 h8" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+          <text x="38" y="10">Challenges</text>
+        </g>
+        <g transform="translate(30,356)">
+          <circle cx="10" cy="4" r="4" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+          <path d="M2 16 a8 7 0 0 1 16 0" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+          <text x="38" y="10">Profile and Settings</text>
+        </g>
+        <g transform="translate(30,396)">
+          <circle cx="10" cy="8" r="9" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+          <text x="10" y="12" text-anchor="middle" font-size="11" font-weight="bold">i</text>
+          <text x="38" y="10">About EcoSort</text>
+        </g>
+      </g>
+      <rect x="10" y="500" width="252" height="1" fill="#E0E0E0"/>
+      <g transform="translate(30,520)">
+        <path d="M12 0 h-12 v16 h12 M8 8 h12 M16 4 l4 4 l-4 4" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+        <text x="38" y="12" font-size="12" fill="#1A1A1A">Log out</text>
+      </g>
+    </g>
+  </g>
+  <text x="996" y="742" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">3 · Menu drawer</text>
+
+  <!-- ================= P4 SORT GRID ================= -->
+  <g transform="translate(1204,104)">
+    <rect width="360" height="600" rx="36" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="4"/>
+    <rect x="140" y="14" width="80" height="9" rx="4.5" fill="#D9D9D9"/>
+    <g transform="translate(30,50)">
+      <path d="M0 0 h20 M0 6 h20 M0 12 h20" stroke="#1A1A1A" stroke-width="2.4"/>
+    </g>
+    <text x="180" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#1A1A1A">EcoSort</text>
+    <line x1="12" y1="78" x2="348" y2="78" stroke="#EEEEEE" stroke-width="2"/>
+    <text x="26" y="106" font-size="15" font-weight="bold" fill="#1A1A1A">What are you throwing away?</text>
+    <g>
+      <g transform="translate(26,120)">
+        <rect width="150" height="62" rx="14" fill="#F2F2F2"/>
+        <path d="M18 20 h20 l-4 24 h-12 Z" stroke="#1A1A1A" stroke-width="2.4" fill="none"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#1A1A1A">Plastic</text>
+      </g>
+      <g transform="translate(188,120)">
+        <rect width="150" height="62" rx="14" fill="#F2F2F2"/>
+        <path d="M18 18 h16 l6 6 v20 h-22 Z M34 18 v6 h6" stroke="#1A1A1A" stroke-width="2.2" fill="none"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#1A1A1A">Paper</text>
+      </g>
+      <g transform="translate(26,194)">
+        <rect width="150" height="62" rx="14" fill="#F2F2F2"/>
+        <path d="M24 16 h8 v8 l6 8 v16 h-20 v-16 l6 -8 Z" stroke="#1A1A1A" stroke-width="2.2" fill="none"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#1A1A1A">Glass</text>
+      </g>
+      <g transform="translate(188,194)">
+        <rect width="150" height="62" rx="14" fill="#F2F2F2"/>
+        <circle cx="27" cy="27" r="8" stroke="#1A1A1A" stroke-width="2.4" fill="none"/>
+        <path d="M33 33 l10 10" stroke="#1A1A1A" stroke-width="4"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#1A1A1A">Metal</text>
+      </g>
+      <g transform="translate(26,268)">
+        <rect width="150" height="62" rx="14" fill="#F2F2F2"/>
+        <circle cx="27" cy="32" r="9" stroke="#1A1A1A" stroke-width="2.4" fill="none"/>
+        <path d="M27 23 v-5" stroke="#1A1A1A" stroke-width="2.4"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#1A1A1A">Food</text>
+      </g>
+      <g transform="translate(188,268)">
+        <rect width="150" height="62" rx="14" fill="#F2F2F2"/>
+        <rect x="18" y="18" width="14" height="26" rx="3" stroke="#1A1A1A" stroke-width="2.2" fill="none"/>
+        <path d="M34 44 h10 v-10 h-10" stroke="#1A1A1A" stroke-width="2.2" fill="none"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#1A1A1A">E-waste</text>
+      </g>
+      <g transform="translate(26,342)">
+        <rect width="150" height="62" rx="14" fill="#F2F2F2"/>
+        <rect x="17" y="24" width="22" height="16" rx="3" stroke="#1A1A1A" stroke-width="2.2" fill="none"/>
+        <path d="M39 29 h4 v6 h-4 M22 28 v8 M28 28 v8 M34 28 v8" stroke="#1A1A1A" stroke-width="2"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#1A1A1A">Batteries</text>
+      </g>
+      <g transform="translate(188,342)">
+        <rect width="150" height="62" rx="14" fill="#F2F2F2"/>
+        <path d="M27 20 a5 5 0 0 1 5 5 M27 25 L15 38 h24 Z" stroke="#1A1A1A" stroke-width="2.2" fill="none"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#1A1A1A">Clothes</text>
+      </g>
+    </g>
+    <line x1="12" y1="522" x2="348" y2="522" stroke="#E5E5E5" stroke-width="2"/>
+    <g transform="translate(0,536)" stroke-linecap="round">
+      <g transform="translate(45,0)">
+        <path d="M-10 -6 h20 M-10 0 h14 M-10 6 h8" stroke="#1A1A1A" stroke-width="2.4"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" font-weight="bold" fill="#1A1A1A">Sort</text>
+      </g>
+      <g transform="translate(113,0)" stroke="#9E9E9E" fill="none">
+        <path d="M0 -10 a7 7 0 0 1 7 7 c0 5 -7 13 -7 13 s-7 -8 -7 -13 a7 7 0 0 1 7 -7 Z" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Centers</text>
+      </g>
+      <g transform="translate(180,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-9 7 L-3 0 L2 4 L9 -7" stroke-width="2.4"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Tracker</text>
+      </g>
+      <g transform="translate(247,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-7 -8 h14 v6 a7 7 0 0 1 -14 0 Z M0 5 v4 M-5 9 h10" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Challenges</text>
+      </g>
+      <g transform="translate(314,0)" stroke="#9E9E9E" fill="none">
+        <circle cx="0" cy="-6" r="4.5" stroke-width="2"/>
+        <path d="M-8 8 a8 8 0 0 1 16 0" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Profile</text>
+      </g>
+    </g>
+  </g>
+  <text x="1384" y="742" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">4 · Sort guide</text>
+
+  <!-- ================= P5 HOW TO SORT (PLASTIC) ================= -->
+  <g transform="translate(1592,104)">
+    <rect width="360" height="600" rx="36" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="4"/>
+    <rect x="140" y="14" width="80" height="9" rx="4.5" fill="#D9D9D9"/>
+    <g transform="translate(30,50)">
+      <path d="M0 0 h20 M0 6 h20 M0 12 h20" stroke="#1A1A1A" stroke-width="2.4"/>
+    </g>
+    <text x="180" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#1A1A1A">EcoSort</text>
+    <line x1="12" y1="78" x2="348" y2="78" stroke="#EEEEEE" stroke-width="2"/>
+    <text x="26" y="104" font-size="15" font-weight="bold" fill="#1A1A1A">What are you throwing away?</text>
+    <g transform="translate(26,116)">
+      <rect width="150" height="46" rx="14" fill="#F2F2F2" stroke="#1A1A1A" stroke-width="2"/>
+      <text x="20" y="28" font-size="12.5" font-weight="bold" fill="#1A1A1A">Plastic</text>
+    </g>
+    <g transform="translate(188,116)">
+      <rect width="150" height="46" rx="14" fill="#F2F2F2"/>
+      <text x="20" y="28" font-size="12.5" font-weight="bold" fill="#1A1A1A">Paper</text>
+    </g>
+    <g>
+      <rect x="26" y="172" width="312" height="330" rx="16" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="2"/>
+      <text x="44" y="202" font-size="16" font-weight="bold" fill="#1A1A1A">Plastic</text>
+      <rect x="212" y="184" width="112" height="24" rx="12" fill="#E6B800"/>
+      <text x="268" y="200" text-anchor="middle" font-size="11" font-weight="bold" fill="#FFFFFF">Yellow bin</text>
+      <g font-size="11.5" fill="#212121">
+        <circle cx="52" cy="232" r="11" fill="#EFEFEF"/>
+        <text x="52" y="236" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#1A1A1A">1</text>
+        <text x="72" y="236">Empty and rinse the plastic item.</text>
+        <circle cx="52" cy="262" r="11" fill="#EFEFEF"/>
+        <text x="52" y="266" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#1A1A1A">2</text>
+        <text x="72" y="266">Remove labels and caps if easy.</text>
+        <circle cx="52" cy="292" r="11" fill="#EFEFEF"/>
+        <text x="52" y="296" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#1A1A1A">3</text>
+        <text x="72" y="296">Squeeze bottles flat to save space.</text>
+        <circle cx="52" cy="322" r="11" fill="#EFEFEF"/>
+        <text x="52" y="326" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#1A1A1A">4</text>
+        <text x="72" y="326">Place it in the yellow recycling bin.</text>
+      </g>
+      <rect x="42" y="344" width="280" height="56" rx="12" fill="#FBF3D5"/>
+      <circle cx="60" cy="362" r="7" fill="none" stroke="#B8940A" stroke-width="2"/>
+      <path d="M60 369 v4 M56 373 h8" stroke="#B8940A" stroke-width="2"/>
+      <text x="76" y="364" font-size="10" fill="#4A4A4A">Soft plastic bags are not curbside</text>
+      <text x="76" y="378" font-size="10" fill="#4A4A4A">recyclable — take them to a supermarket</text>
+      <text x="76" y="392" font-size="10" fill="#4A4A4A">drop-off point.</text>
+      <rect x="42" y="416" width="280" height="46" rx="12" fill="#1A1A1A"/>
+      <path d="M118 439 l5 5 l10 -11" stroke="#FFFFFF" stroke-width="3" fill="none"/>
+      <text x="146" y="444" font-size="12.5" font-weight="bold" fill="#FFFFFF">I sorted it  (+10 pts)</text>
+    </g>
+    <line x1="12" y1="522" x2="348" y2="522" stroke="#E5E5E5" stroke-width="2"/>
+    <g transform="translate(0,536)" stroke-linecap="round">
+      <g transform="translate(45,0)">
+        <path d="M-10 -6 h20 M-10 0 h14 M-10 6 h8" stroke="#1A1A1A" stroke-width="2.4"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" font-weight="bold" fill="#1A1A1A">Sort</text>
+      </g>
+      <g transform="translate(113,0)" stroke="#9E9E9E" fill="none">
+        <path d="M0 -10 a7 7 0 0 1 7 7 c0 5 -7 13 -7 13 s-7 -8 -7 -13 a7 7 0 0 1 7 -7 Z" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Centers</text>
+      </g>
+      <g transform="translate(180,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-9 7 L-3 0 L2 4 L9 -7" stroke-width="2.4"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Tracker</text>
+      </g>
+      <g transform="translate(247,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-7 -8 h14 v6 a7 7 0 0 1 -14 0 Z M0 5 v4 M-5 9 h10" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Challenges</text>
+      </g>
+      <g transform="translate(314,0)" stroke="#9E9E9E" fill="none">
+        <circle cx="0" cy="-6" r="4.5" stroke-width="2"/>
+        <path d="M-8 8 a8 8 0 0 1 16 0" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Profile</text>
+      </g>
+    </g>
+  </g>
+  <text x="1772" y="742" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">5 · How to sort</text>
+
+  <!-- ================= P6 CENTERS ================= -->
+  <g transform="translate(40,764)">
+    <rect width="360" height="600" rx="36" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="4"/>
+    <rect x="140" y="14" width="80" height="9" rx="4.5" fill="#D9D9D9"/>
+    <g transform="translate(30,50)">
+      <path d="M0 0 h20 M0 6 h20 M0 12 h20" stroke="#1A1A1A" stroke-width="2.4"/>
+    </g>
+    <text x="180" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#1A1A1A">EcoSort</text>
+    <line x1="12" y1="78" x2="348" y2="78" stroke="#EEEEEE" stroke-width="2"/>
+    <text x="26" y="104" font-size="15" font-weight="bold" fill="#1A1A1A">Recycling centers</text>
+    <rect x="26" y="116" width="308" height="120" rx="14" fill="#E8E8E8"/>
+    <path d="M26 160 h308 M120 116 v120 M240 116 v120" stroke="#D4D4D4" stroke-width="6"/>
+    <circle cx="176" cy="184" r="6" fill="#2F6FD6"/>
+    <circle cx="176" cy="184" r="12" fill="#2F6FD6" fill-opacity="0.25"/>
+    <g fill="#1A1A1A">
+      <path d="M96 136 a8 8 0 0 1 8 8 c0 6 -8 14 -8 14 s-8 -8 -8 -14 a8 8 0 0 1 8 -8 Z"/>
+      <path d="M262 148 a8 8 0 0 1 8 8 c0 6 -8 14 -8 14 s-8 -8 -8 -14 a8 8 0 0 1 8 -8 Z"/>
+      <path d="M140 208 a8 8 0 0 1 8 8 c0 6 -8 14 -8 14 s-8 -8 -8 -14 a8 8 0 0 1 8 -8 Z"/>
+    </g>
+    <g>
+      <rect x="26" y="248" width="308" height="86" rx="14" fill="#F4F4F4"/>
+      <text x="40" y="268" font-size="11.5" font-weight="bold" fill="#1A1A1A">Kamwokya Recycling Hub · 1.2 km</text>
+      <rect x="256" y="256" width="66" height="22" rx="11" fill="#1A1A1A"/>
+      <text x="289" y="271" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#FFFFFF">Directions</text>
+      <text x="40" y="284" font-size="10" fill="#9E9E9E">Mon-Sat 8:00-17:00</text>
+      <g font-size="9" fill="#212121">
+        <rect x="40" y="292" width="48" height="18" rx="9" fill="#E4E4E4"/><text x="64" y="304" text-anchor="middle">Plastic</text>
+        <rect x="92" y="292" width="42" height="18" rx="9" fill="#E4E4E4"/><text x="113" y="304" text-anchor="middle">Paper</text>
+        <rect x="138" y="292" width="42" height="18" rx="9" fill="#E4E4E4"/><text x="159" y="304" text-anchor="middle">Metal</text>
+      </g>
+    </g>
+    <g>
+      <rect x="26" y="342" width="308" height="86" rx="14" fill="#F4F4F4"/>
+      <text x="40" y="362" font-size="11.5" font-weight="bold" fill="#1A1A1A">Ntinda Eco Center · 2.3 km</text>
+      <rect x="256" y="350" width="66" height="22" rx="11" fill="#1A1A1A"/>
+      <text x="289" y="365" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#FFFFFF">Directions</text>
+      <text x="40" y="378" font-size="10" fill="#9E9E9E">Mon-Sat 8:00-17:00</text>
+      <g font-size="9" fill="#212121">
+        <rect x="40" y="386" width="48" height="18" rx="9" fill="#E4E4E4"/><text x="64" y="398" text-anchor="middle">Plastic</text>
+        <rect x="92" y="386" width="40" height="18" rx="9" fill="#E4E4E4"/><text x="112" y="398" text-anchor="middle">Glass</text>
+        <rect x="136" y="386" width="52" height="18" rx="9" fill="#E4E4E4"/><text x="162" y="398" text-anchor="middle">E-waste</text>
+      </g>
+    </g>
+    <g>
+      <rect x="26" y="436" width="308" height="70" rx="14" fill="#F4F4F4"/>
+      <text x="40" y="456" font-size="11.5" font-weight="bold" fill="#1A1A1A">Kiseeva Compost Site · 3.4 km</text>
+      <rect x="256" y="444" width="66" height="22" rx="11" fill="#1A1A1A"/>
+      <text x="289" y="459" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#FFFFFF">Directions</text>
+      <text x="40" y="472" font-size="10" fill="#9E9E9E">Mon-Sat 8:00-17:00</text>
+      <g font-size="9" fill="#212121">
+        <rect x="40" y="480" width="40" height="18" rx="9" fill="#E4E4E4"/><text x="60" y="492" text-anchor="middle">Food</text>
+        <rect x="84" y="480" width="50" height="18" rx="9" fill="#E4E4E4"/><text x="109" y="492" text-anchor="middle">Clothes</text>
+      </g>
+    </g>
+    <line x1="12" y1="522" x2="348" y2="522" stroke="#E5E5E5" stroke-width="2"/>
+    <g transform="translate(0,536)" stroke-linecap="round">
+      <g transform="translate(45,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-10 -6 h20 M-10 0 h14 M-10 6 h8" stroke-width="2.4"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Sort</text>
+      </g>
+      <g transform="translate(113,0)">
+        <path d="M0 -10 a7 7 0 0 1 7 7 c0 5 -7 13 -7 13 s-7 -8 -7 -13 a7 7 0 0 1 7 -7 Z" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" font-weight="bold" fill="#1A1A1A" stroke="none">Centers</text>
+      </g>
+      <g transform="translate(180,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-9 7 L-3 0 L2 4 L9 -7" stroke-width="2.4"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Tracker</text>
+      </g>
+      <g transform="translate(247,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-7 -8 h14 v6 a7 7 0 0 1 -14 0 Z M0 5 v4 M-5 9 h10" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Challenges</text>
+      </g>
+      <g transform="translate(314,0)" stroke="#9E9E9E" fill="none">
+        <circle cx="0" cy="-6" r="4.5" stroke-width="2"/>
+        <path d="M-8 8 a8 8 0 0 1 16 0" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Profile</text>
+      </g>
+    </g>
+  </g>
+  <text x="220" y="1402" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">6 · Recycling centers</text>
+
+  <!-- ================= P7 TRACKER ================= -->
+  <g transform="translate(428,764)">
+    <rect width="360" height="600" rx="36" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="4"/>
+    <rect x="140" y="14" width="80" height="9" rx="4.5" fill="#D9D9D9"/>
+    <g transform="translate(30,50)">
+      <path d="M0 0 h20 M0 6 h20 M0 12 h20" stroke="#1A1A1A" stroke-width="2.4"/>
+    </g>
+    <text x="180" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#1A1A1A">EcoSort</text>
+    <line x1="12" y1="78" x2="348" y2="78" stroke="#EEEEEE" stroke-width="2"/>
+    <text x="26" y="104" font-size="15" font-weight="bold" fill="#1A1A1A">My eco impact</text>
+    <rect x="26" y="116" width="308" height="104" rx="16" fill="#1A1A1A"/>
+    <text x="46" y="142" font-size="11" fill="#BDBDBD">Eco points</text>
+    <text x="46" y="180" font-size="36" font-weight="bold" fill="#FFFFFF">130</text>
+    <text x="46" y="206" font-size="11" font-weight="bold" fill="#FFFFFF">Level 2</text>
+    <rect x="102" y="196" width="212" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.24"/>
+    <rect x="102" y="196" width="100" height="9" rx="4.5" fill="#FFFFFF"/>
+    <text x="26" y="248" font-size="12.5" font-weight="bold" fill="#1A1A1A">Sorted by type</text>
+    <g font-size="10.5" fill="#212121">
+      <text x="26" y="272">Plastic</text>
+      <rect x="90" y="264" width="216" height="9" rx="4.5" fill="#EFEFEF"/>
+      <rect x="90" y="264" width="216" height="9" rx="4.5" fill="#333333"/>
+      <text x="322" y="272" font-weight="bold">5</text>
+      <text x="26" y="296">Paper</text>
+      <rect x="90" y="288" width="216" height="9" rx="4.5" fill="#EFEFEF"/>
+      <rect x="90" y="288" width="173" height="9" rx="4.5" fill="#333333"/>
+      <text x="322" y="296" font-weight="bold">4</text>
+      <text x="26" y="320">Food</text>
+      <rect x="90" y="312" width="216" height="9" rx="4.5" fill="#EFEFEF"/>
+      <rect x="90" y="312" width="86" height="9" rx="4.5" fill="#333333"/>
+      <text x="322" y="320" font-weight="bold">2</text>
+      <text x="26" y="344">Metal</text>
+      <rect x="90" y="336" width="216" height="9" rx="4.5" fill="#EFEFEF"/>
+      <rect x="90" y="336" width="43" height="9" rx="4.5" fill="#333333"/>
+      <text x="322" y="344" font-weight="bold">1</text>
+    </g>
+    <text x="26" y="376" font-size="12.5" font-weight="bold" fill="#1A1A1A">Badges</text>
+    <g>
+      <g transform="translate(60,404)">
+        <circle r="22" fill="#1A1A1A"/>
+        <path d="M-7 -8 h14 v5 a7 7 0 0 1 -14 0 Z M0 4 v4 M-5 8 h10" stroke="#FFD54F" stroke-width="2.4" fill="none"/>
+        <text y="38" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#1A1A1A">First sort</text>
+      </g>
+      <g transform="translate(145,404)">
+        <circle r="22" fill="#1A1A1A"/>
+        <path d="M-7 -8 h14 v5 a7 7 0 0 1 -14 0 Z M0 4 v4 M-5 8 h10" stroke="#FFD54F" stroke-width="2.4" fill="none"/>
+        <text y="38" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#1A1A1A">10 items</text>
+      </g>
+      <g transform="translate(232,404)">
+        <circle r="22" fill="#1A1A1A"/>
+        <path d="M-7 -8 h14 v5 a7 7 0 0 1 -14 0 Z M0 4 v4 M-5 8 h10" stroke="#FFD54F" stroke-width="2.4" fill="none"/>
+        <text y="38" text-anchor="middle" font-size="9.5" font-weight="bold" fill="#1A1A1A">Plastic hero</text>
+      </g>
+      <g transform="translate(60,472)">
+        <circle r="22" fill="#E4E4E4"/>
+        <rect x="-8" y="-2" width="16" height="12" rx="2" fill="none" stroke="#9E9E9E" stroke-width="2.4"/>
+        <path d="M-5 -2 v-4 a5 5 0 0 1 10 0 v4" fill="none" stroke="#9E9E9E" stroke-width="2.4"/>
+        <text y="38" text-anchor="middle" font-size="9.5" fill="#9E9E9E">Compost pro</text>
+      </g>
+      <g transform="translate(145,472)">
+        <circle r="22" fill="#E4E4E4"/>
+        <rect x="-8" y="-2" width="16" height="12" rx="2" fill="none" stroke="#9E9E9E" stroke-width="2.4"/>
+        <path d="M-5 -2 v-4 a5 5 0 0 1 10 0 v4" fill="none" stroke="#9E9E9E" stroke-width="2.4"/>
+        <text y="38" text-anchor="middle" font-size="9.5" fill="#9E9E9E">E-waste</text>
+      </g>
+      <g transform="translate(232,472)">
+        <circle r="22" fill="#E4E4E4"/>
+        <rect x="-8" y="-2" width="16" height="12" rx="2" fill="none" stroke="#9E9E9E" stroke-width="2.4"/>
+        <path d="M-5 -2 v-4 a5 5 0 0 1 10 0 v4" fill="none" stroke="#9E9E9E" stroke-width="2.4"/>
+        <text y="38" text-anchor="middle" font-size="9.5" fill="#9E9E9E">50 pts</text>
+      </g>
+    </g>
+    <line x1="12" y1="522" x2="348" y2="522" stroke="#E5E5E5" stroke-width="2"/>
+    <g transform="translate(0,536)" stroke-linecap="round">
+      <g transform="translate(45,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-10 -6 h20 M-10 0 h14 M-10 6 h8" stroke-width="2.4"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Sort</text>
+      </g>
+      <g transform="translate(113,0)" stroke="#9E9E9E" fill="none">
+        <path d="M0 -10 a7 7 0 0 1 7 7 c0 5 -7 13 -7 13 s-7 -8 -7 -13 a7 7 0 0 1 7 -7 Z" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Centers</text>
+      </g>
+      <g transform="translate(180,0)">
+        <path d="M-9 7 L-3 0 L2 4 L9 -7" stroke="#1A1A1A" stroke-width="2.4" fill="none"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" font-weight="bold" fill="#1A1A1A" stroke="none">Tracker</text>
+      </g>
+      <g transform="translate(247,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-7 -8 h14 v6 a7 7 0 0 1 -14 0 Z M0 5 v4 M-5 9 h10" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Challenges</text>
+      </g>
+      <g transform="translate(314,0)" stroke="#9E9E9E" fill="none">
+        <circle cx="0" cy="-6" r="4.5" stroke-width="2"/>
+        <path d="M-8 8 a8 8 0 0 1 16 0" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Profile</text>
+      </g>
+    </g>
+  </g>
+  <text x="608" y="1402" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">7 · Eco-tracker</text>
+
+  <!-- ================= P8 CHALLENGES ================= -->
+  <g transform="translate(816,764)">
+    <rect width="360" height="600" rx="36" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="4"/>
+    <rect x="140" y="14" width="80" height="9" rx="4.5" fill="#D9D9D9"/>
+    <g transform="translate(30,50)">
+      <path d="M0 0 h20 M0 6 h20 M0 12 h20" stroke="#1A1A1A" stroke-width="2.4"/>
+    </g>
+    <text x="180" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#1A1A1A">EcoSort</text>
+    <line x1="12" y1="78" x2="348" y2="78" stroke="#EEEEEE" stroke-width="2"/>
+    <text x="26" y="104" font-size="15" font-weight="bold" fill="#1A1A1A">Challenges</text>
+    <g>
+      <rect x="26" y="120" width="308" height="118" rx="14" fill="#F4F4F4"/>
+      <text x="42" y="146" font-size="12.5" font-weight="bold" fill="#1A1A1A">Recycle 10 plastic bottles</text>
+      <rect x="42" y="160" width="276" height="9" rx="4.5" fill="#E0E0E0"/>
+      <rect x="42" y="160" width="138" height="9" rx="4.5" fill="#333333"/>
+      <text x="42" y="186" font-size="10" fill="#9E9E9E">Progress: 5/10</text>
+      <rect x="42" y="196" width="76" height="28" rx="14" fill="none" stroke="#9E9E9E" stroke-width="1.6"/>
+      <text x="80" y="214" text-anchor="middle" font-size="10.5" fill="#616161">Joined</text>
+    </g>
+    <g>
+      <rect x="26" y="250" width="308" height="118" rx="14" fill="#F4F4F4"/>
+      <text x="42" y="276" font-size="12.5" font-weight="bold" fill="#1A1A1A">Compost 5 food items</text>
+      <rect x="42" y="290" width="276" height="9" rx="4.5" fill="#E0E0E0"/>
+      <text x="42" y="316" font-size="10" fill="#9E9E9E">Progress: 0/5</text>
+      <rect x="42" y="326" width="62" height="28" rx="14" fill="#1A1A1A"/>
+      <text x="73" y="344" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#FFFFFF">Join</text>
+    </g>
+    <g>
+      <rect x="26" y="380" width="308" height="118" rx="14" fill="#F4F4F4"/>
+      <text x="42" y="406" font-size="12.5" font-weight="bold" fill="#1A1A1A">Sort 15 items of any type</text>
+      <rect x="42" y="420" width="276" height="9" rx="4.5" fill="#E0E0E0"/>
+      <text x="42" y="446" font-size="10" fill="#9E9E9E">Progress: 0/15</text>
+      <rect x="42" y="456" width="62" height="28" rx="14" fill="#1A1A1A"/>
+      <text x="73" y="474" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#FFFFFF">Join</text>
+    </g>
+    <line x1="12" y1="522" x2="348" y2="522" stroke="#E5E5E5" stroke-width="2"/>
+    <g transform="translate(0,536)" stroke-linecap="round">
+      <g transform="translate(45,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-10 -6 h20 M-10 0 h14 M-10 6 h8" stroke-width="2.4"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Sort</text>
+      </g>
+      <g transform="translate(113,0)" stroke="#9E9E9E" fill="none">
+        <path d="M0 -10 a7 7 0 0 1 7 7 c0 5 -7 13 -7 13 s-7 -8 -7 -13 a7 7 0 0 1 7 -7 Z" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Centers</text>
+      </g>
+      <g transform="translate(180,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-9 7 L-3 0 L2 4 L9 -7" stroke-width="2.4"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Tracker</text>
+      </g>
+      <g transform="translate(247,0)">
+        <path d="M-7 -8 h14 v6 a7 7 0 0 1 -14 0 Z M0 5 v4 M-5 9 h10" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" font-weight="bold" fill="#1A1A1A" stroke="none">Challenges</text>
+      </g>
+      <g transform="translate(314,0)" stroke="#9E9E9E" fill="none">
+        <circle cx="0" cy="-6" r="4.5" stroke-width="2"/>
+        <path d="M-8 8 a8 8 0 0 1 16 0" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Profile</text>
+      </g>
+    </g>
+  </g>
+  <text x="996" y="1402" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">8 · Challenges</text>
+
+  <!-- ================= P9 PROFILE ================= -->
+  <g transform="translate(1204,764)">
+    <rect width="360" height="600" rx="36" fill="#FFFFFF" stroke="#1A1A1A" stroke-width="4"/>
+    <rect x="140" y="14" width="80" height="9" rx="4.5" fill="#D9D9D9"/>
+    <g transform="translate(30,50)">
+      <path d="M0 0 h20 M0 6 h20 M0 12 h20" stroke="#1A1A1A" stroke-width="2.4"/>
+    </g>
+    <text x="180" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#1A1A1A">EcoSort</text>
+    <line x1="12" y1="78" x2="348" y2="78" stroke="#EEEEEE" stroke-width="2"/>
+    <circle cx="180" cy="130" r="38" fill="#1A1A1A"/>
+    <text x="180" y="142" text-anchor="middle" font-size="30" font-weight="bold" fill="#FFFFFF">O</text>
+    <text x="180" y="192" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">Obed</text>
+    <text x="180" y="211" text-anchor="middle" font-size="11.5" fill="#9E9E9E">obed@example.com</text>
+    <text x="180" y="229" text-anchor="middle" font-size="10.5" fill="#9E9E9E">130 points · 13 items · Level 2</text>
+    <g>
+      <rect x="26" y="256" width="308" height="52" rx="14" fill="#F4F4F4"/>
+      <path d="M46 288 l16 -16 l6 6 l-16 16 l-7 1 Z" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+      <text x="80" y="287" font-size="12.5" fill="#1A1A1A">Edit name</text>
+      <path d="M314 276 l8 6 l-8 6" stroke="#9E9E9E" stroke-width="2" fill="none"/>
+    </g>
+    <g>
+      <rect x="26" y="320" width="308" height="86" rx="14" fill="#F4F4F4"/>
+      <text x="42" y="344" font-size="11.5" font-weight="bold" fill="#1A1A1A">Appearance</text>
+      <rect x="42" y="356" width="276" height="34" rx="17" fill="none" stroke="#BDBDBD" stroke-width="1.6"/>
+      <rect x="134" y="358" width="90" height="30" rx="15" fill="#E0E0E0"/>
+      <text x="87" y="377" text-anchor="middle" font-size="11" fill="#616161">Auto</text>
+      <text x="179" y="377" text-anchor="middle" font-size="11" font-weight="bold" fill="#1A1A1A">Light</text>
+      <text x="272" y="377" text-anchor="middle" font-size="11" fill="#616161">Dark</text>
+    </g>
+    <g>
+      <rect x="26" y="418" width="308" height="52" rx="14" fill="#F4F4F4"/>
+      <path d="M56 438 a9 9 0 1 1 -3 12" stroke="#1A1A1A" stroke-width="2.4" fill="none"/>
+      <path d="M53 448 l0 -6 l6 2" fill="#1A1A1A"/>
+      <text x="80" y="449" font-size="12.5" fill="#1A1A1A">Reset my progress</text>
+      <path d="M314 438 l8 6 l-8 6" stroke="#9E9E9E" stroke-width="2" fill="none"/>
+    </g>
+    <rect x="26" y="486" width="308" height="46" rx="12" fill="#1A1A1A"/>
+    <text x="180" y="514" text-anchor="middle" font-size="13" font-weight="bold" fill="#FFFFFF">Log out</text>
+    <line x1="12" y1="548" x2="348" y2="548" stroke="#E5E5E5" stroke-width="2"/>
+    <g transform="translate(0,560)" stroke-linecap="round">
+      <g transform="translate(45,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-10 -6 h20 M-10 0 h14 M-10 6 h8" stroke-width="2.4"/>
+        <text x="0" y="20" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Sort</text>
+      </g>
+      <g transform="translate(113,0)" stroke="#9E9E9E" fill="none">
+        <path d="M0 -10 a7 7 0 0 1 7 7 c0 5 -7 13 -7 13 s-7 -8 -7 -13 a7 7 0 0 1 7 -7 Z" stroke-width="2"/>
+        <text x="0" y="20" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Centers</text>
+      </g>
+      <g transform="translate(180,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-9 7 L-3 0 L2 4 L9 -7" stroke-width="2.4"/>
+        <text x="0" y="20" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Tracker</text>
+      </g>
+      <g transform="translate(247,0)" stroke="#9E9E9E" fill="none">
+        <path d="M-7 -8 h14 v6 a7 7 0 0 1 -14 0 Z M0 5 v4 M-5 9 h10" stroke-width="2"/>
+        <text x="0" y="20" text-anchor="middle" font-size="9" fill="#9E9E9E" stroke="none">Challenges</text>
+      </g>
+      <g transform="translate(314,0)">
+        <circle cx="0" cy="-6" r="4.5" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+        <path d="M-8 8 a8 8 0 0 1 16 0" stroke="#1A1A1A" stroke-width="2" fill="none"/>
+        <text x="0" y="20" text-anchor="middle" font-size="9" font-weight="bold" fill="#1A1A1A" stroke="none">Profile</text>
+      </g>
+    </g>
+  </g>
+  <text x="1384" y="1402" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">9 · Profile and settings</text>
+
+  <!-- ================= P10 DARK MODE ================= -->
+  <g transform="translate(1592,764)">
+    <rect width="360" height="600" rx="36" fill="#121212" stroke="#1A1A1A" stroke-width="4"/>
+    <rect x="140" y="14" width="80" height="9" rx="4.5" fill="#3A3A3A"/>
+    <g transform="translate(30,50)">
+      <path d="M0 0 h20 M0 6 h20 M0 12 h20" stroke="#FFFFFF" stroke-width="2.4"/>
+    </g>
+    <text x="180" y="62" text-anchor="middle" font-size="15" font-weight="bold" fill="#FFFFFF">EcoSort</text>
+    <line x1="12" y1="78" x2="348" y2="78" stroke="#2A2A2A" stroke-width="2"/>
+    <text x="26" y="104" font-size="15" font-weight="bold" fill="#FFFFFF">What are you throwing away?</text>
+    <g>
+      <g transform="translate(26,118)">
+        <rect width="150" height="62" rx="14" fill="#1E1E1E" stroke="#FFFFFF" stroke-width="2"/>
+        <path d="M18 20 h20 l-4 24 h-12 Z" stroke="#FFFFFF" stroke-width="2.4" fill="none"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#FFFFFF">Plastic</text>
+      </g>
+      <g transform="translate(188,118)">
+        <rect width="150" height="62" rx="14" fill="#1E1E1E"/>
+        <path d="M18 18 h16 l6 6 v20 h-22 Z M34 18 v6 h6" stroke="#FFFFFF" stroke-width="2.2" fill="none"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#FFFFFF">Paper</text>
+      </g>
+      <g transform="translate(26,192)">
+        <rect width="150" height="62" rx="14" fill="#1E1E1E"/>
+        <path d="M24 16 h8 v8 l6 8 v16 h-20 v-16 l6 -8 Z" stroke="#FFFFFF" stroke-width="2.2" fill="none"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#FFFFFF">Glass</text>
+      </g>
+      <g transform="translate(188,192)">
+        <rect width="150" height="62" rx="14" fill="#1E1E1E"/>
+        <circle cx="27" cy="27" r="8" stroke="#FFFFFF" stroke-width="2.4" fill="none"/>
+        <path d="M33 33 l10 10" stroke="#FFFFFF" stroke-width="4"/>
+        <text x="56" y="36" font-size="12.5" font-weight="bold" fill="#FFFFFF">Metal</text>
+      </g>
+    </g>
+    <g transform="translate(26,270)">
+      <rect width="312" height="230" rx="16" fill="#1E1E1E"/>
+      <text x="18" y="30" font-size="16" font-weight="bold" fill="#FFFFFF">Plastic</text>
+      <rect x="186" y="12" width="112" height="24" rx="12" fill="#E6B800"/>
+      <text x="242" y="28" text-anchor="middle" font-size="11" font-weight="bold" fill="#FFFFFF">Yellow bin</text>
+      <g font-size="11.5" fill="#E0E0E0">
+        <circle cx="26" cy="60" r="11" fill="#2A2A2A"/>
+        <text x="26" y="64" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#FFFFFF">1</text>
+        <text x="46" y="64">Empty and rinse the plastic item.</text>
+        <circle cx="26" cy="90" r="11" fill="#2A2A2A"/>
+        <text x="26" y="94" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#FFFFFF">2</text>
+        <text x="46" y="94">Remove labels and caps if easy.</text>
+        <circle cx="26" cy="120" r="11" fill="#2A2A2A"/>
+        <text x="26" y="124" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#FFFFFF">3</text>
+        <text x="46" y="124">Squeeze bottles flat to save space.</text>
+      </g>
+      <rect x="18" y="144" width="276" height="40" rx="12" fill="#332B0A"/>
+      <circle cx="36" cy="160" r="7" fill="none" stroke="#E6B800" stroke-width="2"/>
+      <path d="M36 167 v4 M32 171 h8" stroke="#E6B800" stroke-width="2"/>
+      <text x="52" y="162" font-size="10" fill="#CFCFCF">Soft plastic bags are not curbside</text>
+      <text x="52" y="176" font-size="10" fill="#CFCFCF">recyclable — use a supermarket drop-off.</text>
+      <rect x="18" y="194" width="276" height="42" rx="12" fill="#FFFFFF"/>
+      <text x="156" y="220" text-anchor="middle" font-size="12.5" font-weight="bold" fill="#1A1A1A">I sorted it  (+10 pts)</text>
+    </g>
+    <line x1="12" y1="522" x2="348" y2="522" stroke="#2A2A2A" stroke-width="2"/>
+    <g transform="translate(0,536)" stroke-linecap="round">
+      <g transform="translate(45,0)">
+        <path d="M-10 -6 h20 M-10 0 h14 M-10 6 h8" stroke="#FFFFFF" stroke-width="2.4" fill="none"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" font-weight="bold" fill="#FFFFFF">Sort</text>
+      </g>
+      <g transform="translate(113,0)" stroke="#7A7A7A" fill="none">
+        <path d="M0 -10 a7 7 0 0 1 7 7 c0 5 -7 13 -7 13 s-7 -8 -7 -13 a7 7 0 0 1 7 -7 Z" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#7A7A7A" stroke="none">Centers</text>
+      </g>
+      <g transform="translate(180,0)" stroke="#7A7A7A" fill="none">
+        <path d="M-9 7 L-3 0 L2 4 L9 -7" stroke-width="2.4"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#7A7A7A" stroke="none">Tracker</text>
+      </g>
+      <g transform="translate(247,0)" stroke="#7A7A7A" fill="none">
+        <path d="M-7 -8 h14 v6 a7 7 0 0 1 -14 0 Z M0 5 v4 M-5 9 h10" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#7A7A7A" stroke="none">Challenges</text>
+      </g>
+      <g transform="translate(314,0)" stroke="#7A7A7A" fill="none">
+        <circle cx="0" cy="-6" r="4.5" stroke-width="2"/>
+        <path d="M-8 8 a8 8 0 0 1 16 0" stroke-width="2"/>
+        <text x="0" y="24" text-anchor="middle" font-size="9" fill="#7A7A7A" stroke="none">Profile</text>
+      </g>
+    </g>
+  </g>
+  <text x="1772" y="1402" text-anchor="middle" font-size="18" font-weight="bold" fill="#1A1A1A">10 · Dark mode</text>
+</svg>
